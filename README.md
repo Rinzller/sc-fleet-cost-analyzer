@@ -1,4 +1,4 @@
-# Star Citizen Fleet Value Report
+# Star Citizen Fleet Cost Analyzer
 
 A simple Python utility for analyzing your Star Citizen fleet value using a CSV export from CCU Game.
 
@@ -18,7 +18,7 @@ Includes ANSI-colored terminal output for readability.
 
 ```text
 ================================================================================
-STAR CITIZEN FLEET VALUE REPORT
+STAR CITIZEN FLEET COST ANALYZER (Value Report)
 ================================================================================
 
 Unique Pledges / Packages: 14
