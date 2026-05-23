@@ -52,7 +52,7 @@ Discount:           33.80%
 
 ## Export Your Fleet
 
-1. Open CCU Game
+1. Open CCU Game (https://ccugame.app/your-items/ships)
 2. Sync your hangar
 3. Export your ships CSV
 
